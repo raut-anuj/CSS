@@ -1,0 +1,13 @@
+ /* text-align: right; */
+ /* border: 5px solid rgb(189, 55, 55);
+    border-style: solid dashed ;
+    background-color: rebeccapurple; */
+
+ h2{
+    text-align: center;
+    height: 100px;
+    width: 200px;
+    border: 10px red solid;
+    border-radius: 50%;
+    background-color: rgb(65, 65, 93);
+}
