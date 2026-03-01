@@ -1,0 +1,26 @@
+*{
+    padding: 2px;
+    margin:2px;
+}
+.navbar {
+    background-color: black;
+    padding: 15px;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(213, 64, 5);
+}
+.navbar a {
+    color: white;
+    margin-right: 100px;
+}
+button{
+    background-color: chocolate;
+    padding: 2px 3px 3px 3px;
+    color: rgb(255, 255, 255);
+}
+input{
+    width: 200px;
+    padding-right: 20px;
+}
