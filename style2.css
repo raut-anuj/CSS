@@ -4,14 +4,14 @@
     background-color: rebeccapurple; */
 
  div{
-    text-align: center;
+    /* text-align: center; */
     height: 250px;
     width: 250px;
     border: 10px red solid;
     /* border-radius: 50%; */
     background-color: rgb(65, 65, 93);
-    padding-top: 5px;
-    padding-left: 300px;
+    /* padding-top: 5px; */
+    /* padding-left: 500px; */
 
 }
 h2{
@@ -19,7 +19,7 @@ h2{
     height: 50px;
     width: 100px;
     border: 10px black solid;
-    padding: 5px;
+    padding-left: 50px;
 }
 h3{
     /* text-align: center; */
