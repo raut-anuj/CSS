@@ -1,5 +1,16 @@
-body{
-    background-image: url(".photo1.jpg");
+.box1{
+    background-image: url("photo1.jpg");
+    background-size: cover;
+}
+.box2{
+    background-image: url("photo2.jpg");
+    background-size: cover;
+}.box3{
+    background-image: url("photo3.jpg");
+    background-size: cover;
+}.box4{
+    background-image: url("photo4.jpg");
+    background-size: cover;
 }
 div{
     display: inline-block;
