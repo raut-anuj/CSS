@@ -26,3 +26,8 @@ div{
     width: 100%;
     height: 20px;
 }
+.box3{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
