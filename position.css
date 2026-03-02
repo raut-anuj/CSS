@@ -28,6 +28,8 @@ div{
 }
 .box3{
     position: absolute;
-    top: 100px;
+    top: 100px; 
     left: 20px;
+    background-image: url("https://unsplash.com/photos/a-plant-stool-and-accessories-decorate-a-room-erlj_OEgXvw");
 }
+
