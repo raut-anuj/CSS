@@ -10,12 +10,8 @@ div{
 #container{
     width: 500px;
     height: 600px;
-     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content:center;
-    align-items: flex-end;
-    align-content: flex-end ;
+    display: flex;
+    
 }
 #box1{
     background-color: rgb(197, 20, 213);
